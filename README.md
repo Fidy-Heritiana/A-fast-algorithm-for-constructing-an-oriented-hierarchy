@@ -1,1 +1,2 @@
 # A-fast-algorithm-for-constructing-an-oriented-hierarchy
+In this project, we propose a new algorithm for constructing an oriented hierarchy in implicative statistical analysis. After a mathematical study, we show that it is significantly faster than Gras’s original algorithm. Moreover, it proves to be more effective than the optimized algorithm proposed by other researchers, as the results obtained are closer to those of Gras’s algorithm.
