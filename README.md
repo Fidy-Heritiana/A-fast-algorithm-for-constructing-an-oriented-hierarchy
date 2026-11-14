@@ -1,5 +1,7 @@
 # Constructing oriented hierarchies: Python implementations
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fidy-Heritiana/A-fast-algorithm-for-constructing-an-oriented-hierarchy/blob/main/demo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fidy-Heritiana/A-fast-algorithm-for-constructing-an-oriented-hierarchy/main?labpath=demo.ipynb)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24227815.svg)](https://doi.org/10.5281/zenodo.24227815)
 
 Python research code for constructing oriented hierarchies from binary data
