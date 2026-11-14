@@ -115,7 +115,7 @@ def treillis(G):
     list_conséquents = list(conséquents.values())
     concatenate= (list_antécédents + list_conséquents)
     for x in G.nodes:
-        concatenate.append(x)
+        concatenate.append([x])
     #T = consequent(matrice, alpha)
     #for clas in premisse(matrice, alpha):
         #T.add(clas)
