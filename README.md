@@ -1,5 +1,7 @@
 # Constructing oriented hierarchies: Python implementations
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24227815.svg)](https://doi.org/10.5281/zenodo.24227815)
+
 Python research code for constructing oriented hierarchies from binary data
 in **Statistical Implicative Analysis (SIA)**.
 
@@ -128,3 +130,19 @@ mathematical and experimental analysis.
 
 When reporting an experiment, record the commit, dataset, threshold, score
 conventions, Python environment and timing procedure.
+
+## Citation
+
+If you use this software or its data, please cite the archived release:
+
+> Andrianarivony, Fidy Heritiana. (2026). *Constructing oriented hierarchies:
+> Python implementations* (Version 1.0.0) [Computer software]. Zenodo.
+> https://doi.org/10.5281/zenodo.24227815
+
+This DOI identifies version `v1.0.0`. Citation metadata are also provided in
+[`CITATION.cff`](CITATION.cff). For reproducibility, record the version or commit
+used in your experiments.
+
+## License
+
+This project is distributed under the [MIT License](LICENSE).

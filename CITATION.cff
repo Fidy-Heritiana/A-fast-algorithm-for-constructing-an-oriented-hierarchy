@@ -3,6 +3,8 @@ message: "If you use this software or its data, please cite this repository."
 type: software
 title: "Constructing oriented hierarchies: Python implementations"
 version: "1.0.0"
+date-released: "2026-11-14"
+doi: "10.5281/zenodo.24227815"
 license: MIT
 authors:
   - family-names: Andrianarivony
