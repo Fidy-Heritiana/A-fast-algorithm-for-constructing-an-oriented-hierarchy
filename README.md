@@ -1,5 +1,7 @@
 # A fast algorithm for constructing an oriented hierarchy
+
 Try both implementations in your browser: the Colab and Binder badges open `demo.ipynb`, and the Streamlit application lets you choose a dataset (or upload your own CSV file), the score convention and the thresholds.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fidy-Heritiana/A-fast-algorithm-for-constructing-an-oriented-hierarchy/blob/main/demo.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fidy-Heritiana/A-fast-algorithm-for-constructing-an-oriented-hierarchy/main?labpath=demo.ipynb)
 [![Streamlit app](https://img.shields.io/badge/Streamlit-Live%20app-FF4B4B?logo=streamlit&logoColor=white)](https://fast-oriented-hierarchy.streamlit.app/)
